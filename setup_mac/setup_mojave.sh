@@ -31,3 +31,4 @@ if [ ! -e ~/diffeasy ]; then
 	mkdir ~/diffeasy
 fi
 
+alias vim='emacs'
